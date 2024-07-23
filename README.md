@@ -19,6 +19,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://dev.to/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://codesandbox.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://kaggle.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://fb.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhil_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_22" height="30" width="40" /></a>
+<a href="https://dribbble.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.behance.net/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://hashnode.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://medium.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nikhilpogaku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="https://discord.gg/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nikhilpogaku" height="30" width="40" /></a>
+<a href="/nikhilpogaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="nikhilpogaku" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
