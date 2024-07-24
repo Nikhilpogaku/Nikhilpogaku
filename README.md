@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **College Data Base**
 
-- 🌱 I’m currently learning **SQL,MYSQL**
+- 🌱 I’m currently learning **MONGO DB**
 
 - 👯 I’m looking to collaborate on **ORACLE**
 
